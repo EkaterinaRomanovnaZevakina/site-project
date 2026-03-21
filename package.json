@@ -15,5 +15,17 @@
     "pagefind": "^1.4.0",
     "preact": "^10.27.2",
     "tailwindcss": "^4.1.12"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkaterinaRomanovnaZevakina/site-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EkaterinaRomanovnaZevakina/site-project/issues"
+  },
+  "homepage": "https://github.com/EkaterinaRomanovnaZevakina/site-project#readme"
 }
